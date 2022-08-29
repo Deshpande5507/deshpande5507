@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deshapande</h1>
+<h1 align="center">Hi 👋, I'm Deshpande</h1>
 <h3 align="center">A passionate mechanical engineer 4.0 from Germany</h3>
 
 <h3 align="left">Connect with me:</h3>
